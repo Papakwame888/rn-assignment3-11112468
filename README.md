@@ -1,4 +1,6 @@
-11112468
+///// ID 11112468
+
+
 Create Custom Components:
 CategoryButton.js: A button component for the categories.
 TaskCard.js: A card component for displaying individual tasks.
@@ -14,3 +16,4 @@ Ensure the styles closely match the provided UI design.
 Commit and Push Changes:
 After completing each task, commit the changes with a descriptive commit message.
 Push the changes to the remote repository: git push.
+//// SCREENSHOT ![322](https://github.com/Papakwame888/rn-assignment3-11112468/assets/170115382/03a6eb05-9b91-4fcc-b290-75c16ec3e3fb)
